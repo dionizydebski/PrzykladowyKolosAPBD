@@ -9,7 +9,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b725f071-145a-4577-b18b-abbec34acb18" name="Changes" comment="" />
+    <list default="true" id="b725f071-145a-4577-b18b-abbec34acb18" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PrzykladowyKolos/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PrzykladowyKolos/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PrzykladowyKolos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PrzykladowyKolos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrzykladowyKolos/Controllers/PrescriptionController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PrzykladowyKolos/Controllers/PrescriptionController.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +21,9 @@
   </component>
   <component name="DpaMonitoringSettings">
     <option name="autoShow" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/dotnet/runtime/5535e31a712343a63f5d7d796cd874e563e5ac14/src/libraries/System.Private.CoreLib/src/System/InvalidOperationException.cs" root0="SKIP_HIGHLIGHTING" />
@@ -34,6 +41,7 @@
     &quot;.NET Launch Settings Profile.PrzykladowyKolos: IIS Express.executor&quot;: &quot;Run&quot;,
     &quot;.NET Launch Settings Profile.PrzykladowyKolos: http.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -106,6 +114,8 @@
       <updated>1715428671907</updated>
       <workItem from="1715428673078" duration="10731000" />
       <workItem from="1715450192981" duration="5674000" />
+      <workItem from="1715510828637" duration="774000" />
+      <workItem from="1715520287104" duration="30000" />
     </task>
     <servers />
   </component>

@@ -28,6 +28,6 @@ public class PrescriptionController : ControllerBase
         var result = await _prescriptionService.AddPrescription(prescription);
         if (result == null)
             return StatusCode(StatusCodes.Status400BadRequest);
-        return StatusCode(StatusCodes.Status201Created);
+        return Ok(result);
     }
 }
